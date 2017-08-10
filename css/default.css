@@ -1,7 +1,7 @@
 body{
     font-family: arial;
     color: darkorchid;
-    background: linear-gradient(to right, #aea9ff, #ffc1cd, #fff8da);
+    background: url(../img/cloud.png) center, linear-gradient(to right, #aea9ff, #ffc1cd, #fff8da);
 }
 
 h1 {
