@@ -14,7 +14,7 @@ h1 {
 
 .container{
     margin: auto;
-    width: 60%;
+    width: 80%;
     border: 3px dotted darkorchid;
     border-right: 0px;
     border-left: 0px;
@@ -25,7 +25,6 @@ h1 {
 ul.ponys {
 	min-width: 300px;
 	list-style: none;
-    transform: translateX(10%);
 }
 
 ul.ponys li {
