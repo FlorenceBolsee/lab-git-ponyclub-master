@@ -1,6 +1,7 @@
 body{
     font-family: "Arial";
-    color: coral;
+    color: cornflowerblue;
+    background: linear-gradient(to right, #d9a7c7, #fffcdc);
 }
 
 .clearfix{
