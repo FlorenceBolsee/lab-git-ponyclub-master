@@ -1,4 +1,4 @@
-body{
+body {
     font-family: arial;
     color: darkorchid;
     background: url(../img/cloud.png) center, linear-gradient(to right, #aea9ff, #ffc1cd, #fff8da);
@@ -6,13 +6,18 @@ body{
 
 h1 {
     font-family: 'Lobster';
+    color: #fff;
+    display: inline-block;
+    padding: 10px;
+    background: darkorchid;
+    border-radius: 30px;
 }
 
-.clearfix{
+.clearfix {
     clear:both;
 }
 
-.container{
+.container {
     margin: auto;
     width: 80%;
     border: 3px dotted darkorchid;
@@ -37,4 +42,5 @@ ul.ponys li figure img{
 
 ul.ponys li figure figcaption {
     text-align: center;
+    font-weight: bold;
 } 
