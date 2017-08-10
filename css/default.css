@@ -11,8 +11,9 @@ h1 {
     width: 60%;
     margin: 0 auto;
     padding: 20px;
-    background: deeppink;
-    border-radius: 30px;
+    background: #ffc1cd;
+    border-radius: 40px;
+    border: 3px dotted #fff;
 }
 
 .clearfix {
@@ -22,7 +23,7 @@ h1 {
 .container {
     margin: auto;
     width: 80%;
-    border: 3px dotted darkorchid;
+    border: 3px dotted #fff;
     border-right: 0px;
     border-left: 0px;
     padding: 10px;
@@ -36,6 +37,11 @@ ul.ponys {
 
 ul.ponys li {
    float:left;
+   display: inline-block;
+   background: rgba(255,255,255,0.5);
+   border-radius: 40px;
+   margin: 10px;
+   border: 3px dotted #fff;
 }
 
 ul.ponys li figure img{
