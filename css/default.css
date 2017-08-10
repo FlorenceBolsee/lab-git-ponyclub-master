@@ -1,7 +1,11 @@
 body{
-    font-family: "Arial";
-    color: #ee0081;
+    font-family: arial;
+    color: darkorchid;
     background: linear-gradient(to right, #aea9ff, #ffc1cd, #fff8da);
+}
+
+h1 {
+    font-family: 'Lobster';
 }
 
 .clearfix{
@@ -11,7 +15,7 @@ body{
 .container{
     margin: auto;
     width: 60%;
-    border: 2px dotted #ee0081;
+    border: 2px dotted darkorchid;
     border-right: 0px;
     border-left: 0px;
     padding: 10px;
