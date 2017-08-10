@@ -15,7 +15,7 @@ h1 {
 .container{
     margin: auto;
     width: 60%;
-    border: 1px dotted darkorchid;
+    border: 3px dotted darkorchid;
     border-right: 0px;
     border-left: 0px;
     padding: 10px;
